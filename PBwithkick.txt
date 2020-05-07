@@ -1,0 +1,11 @@
+Recipe for making a "Peanut Butter Sandwich with a kick" (Inspired from NY Times)
+
+1. Choose choice of bread.
+3. Keep pickles and sriracha or another hot sauce handy.
+2. Take 2 slices and toast them in a toaster or a pan.
+3. After they are toasted, apply peanut butter on one side of each slice respectively.
+4. Pick any one slice and take some pickles and arrange on the side where the peanut butter was applied. 
+5. Squeeze some sriracha or hot sauce on the arranged pickles.
+6. Apply the other bread slice with just peanut butter side on top of the one which was arranged with pickles and sauce.
+7. Enjoy the sandwich!
+8. Thank me later!# LearnGIT
